@@ -18,7 +18,7 @@
   <a href="https://www.w3schools.com/html/html_attributes.asp">w3 schools</a><br>
   <a href="https://www.carwale.com/new-cars/">cars </a><br>
   <strong>This is the Second paragraph of my repositery</strong><br>
-  <em>This is the third paragraph of my repositery</em><br>
+  
   <img src="">
 </body>
 </html>
