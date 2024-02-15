@@ -2,9 +2,9 @@
 <head>CS Department Courses</head>
 <body>
   <ol type=a>
-    <li>MCA (TYC-3 YEAR PROGRAMME)</li>
+    <li>MCA (TYC-1 YEAR PROGRAMME)</li>
     <li>MCA (TYP-2 YEAR PROGRAMME)</li>
-    <li>MCA (FYIP-5 YEAR PROGRAMME </li>
+    <li>MCA (FYIP-3 YEAR PROGRAMME </li>
   </ol>![Screenshot (2)](https://github.com/Lucifer-davi/Davinder/assets/158458730/72044076-f24b-488c-a3cb-4da7997cecbd)
 
   <b style="color:red;" font size=72> OTHER DEPARTMENTS</b>
